@@ -25,7 +25,7 @@ The platform allows the user to:
 ## 📂 Project Structure
 
 
->>>>>>> fe6fdee752c45465bd2561c895cedb0abf20db48
+
 preprocessing/
 
 ├── cleaning.py
@@ -52,14 +52,14 @@ requirements.txt
 # 1️⃣ Clone the repository
 
 ```bash
->>>>>>> fe6fdee752c45465bd2561c895cedb0abf20db48
+
 git clone https://github.com/zayed70010/data-cleaning-platform.git
 cd data-cleaning-platform
 
 
 
 # 2️⃣ Create and activate virtual environment 
->>>>>>> fe6fdee752c45465bd2561c895cedb0abf20db48
+
 # Create virtual environment
 python -m venv venv
 
@@ -72,7 +72,7 @@ venv\Scripts\activate
 source venv/bin/activate
 
 
->>>>>>> fe6fdee752c45465bd2561c895cedb0abf20db48
+
 # 3️⃣ Install required dependencies
 
 pip install -r requirements.txt
