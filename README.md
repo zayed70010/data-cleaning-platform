@@ -1,4 +1,4 @@
-<img width="1080" height="864" alt="Screenshot 2025-09-12 030855" src="https://github.com/user-attachments/assets/6bd87488-0837-47f3-b36a-b08cd346aec9" />
+<img width="540" height="432" alt="Screenshot 2025-09-12 030855" src="https://github.com/user-attachments/assets/6bd87488-0837-47f3-b36a-b08cd346aec9" />
 
 # data-cleaning-platform
 
